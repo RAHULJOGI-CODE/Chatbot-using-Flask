@@ -8,6 +8,9 @@ This is a simple chatbot created using Python and the Flask framework.
 
 2. Install the required dependencies:
 
+##ChatBot Link
+The Chatbot is constructed using the Microsoft/DialoGPT-medium model.
+   https://huggingface.co/microsoft/DialoGPT-medium
 ## Usage
 
 1. Run the Flask app:
